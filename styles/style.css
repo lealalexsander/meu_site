@@ -207,11 +207,25 @@ body {
         flex-direction: column-reverse;
     }
 
+    .apresentacao__imagem {
+        width: 70%;
+        height: 10%;
+    }
+
     .apresentacao__botao {
-        padding: 0% 0% 0% 15%;
+        padding-left: 30%;
+        align-items: center;
+    }
+
+    .apresentacao__botao_link {
+        padding: 10% 70%;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 1.5rem;
     }
 
     .apresentacao__botao__subtitulo {
-        text-align: center;
+        font-size: 1rem ;
     }
 }
