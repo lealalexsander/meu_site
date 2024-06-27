@@ -204,6 +204,7 @@ body {
     }
 
     .apresentacao {
+        padding: 0% 2%;
         flex-direction: column-reverse;
     }
 
