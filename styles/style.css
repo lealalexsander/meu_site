@@ -216,16 +216,17 @@ body {
         width: 70%;
         height: 10%;
         margin-top: 5%;
-        margin-bottom: -10%;
+        margin-bottom: -5%;
     }
 
     .apresentacao__botao {
         padding-left: 25%;
         align-items: center;
+        margin-bottom: 20%;
     }
 
     .apresentacao__botao_link {
-        padding: 10% 70%;
+        padding: 7% 45%;
     }
 
     .apresentacao__conteudo__titulo {
@@ -233,6 +234,6 @@ body {
     }
 
     .apresentacao__botao__subtitulo {
-        font-size: 1rem ;
+        font-size: 100% ;
     }
 }
